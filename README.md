@@ -38,28 +38,15 @@ observe following things:-
   
 ### Model Performance:
 
-Model Test AUC Test Accuracy F1_score Precision
-Logistic Regression 0.70 0.61 0.29 0.19
-Logistic Regression
-(Under sampling)
+| Model | Test AUC | Test Accuracy | F1_score | Precision |
+|      :---:      |     :---:      |     :---:     |     :---:     |     :---:     |
+| Logistic regression   | 0.70     | 0.61    | 0.29     | 0.19    |
+| Logistic Regression (Under sampling)   | 0.89      | 0.85      | 0.83     | 0.94    |
+| Random Forest (Under sampling)     | 0.95       | 0.89      | 0.88     | 0.92    |
+| Random Forest (Over sampling)     | 0.93       | 0.88     | 0.81     | 0.82    |
+| KNN (Over sampling    | 0.87    | 0.82    | 0.69     | 0.78    |
+| XGBoost (Over sampling)     | 0.91   | 0.86    | 0.77     | 0.82    |
 
-0.89 0.85 0.83 0.94
-
-Random Forest (Under
-sampling)
-
-0.95 0.89 0.88 0.92
-
-Random Forest (Over
-sampling)
-
-0.93 0.88 0.81 0.82
-
-KNN (Over sampling) 0.87 0.82 0.69 0.78
-XGBoost (Over
-sampling)
-
-0.91 0.86 0.77 0.82
 
 Among all models, Random Forest and XGBoost work the best and
 provide a reliable prediction.
