@@ -29,7 +29,7 @@ observe following things:-
   4. Majority of the customers had a housing loan.
   
 ### Models Implementation:-
-  1. Logistic Regression
+  1. **Logistic Regression**
   2. Logistic Regression(under sampling)
   3. Random Forest(under sampling)
   4. Random Forest(under sampling)
