@@ -48,5 +48,19 @@ observe following things:-
 | XGBoost (Over sampling)     | 0.91   | 0.86    | 0.77     | 0.82    |
 
 
-Among all models, Random Forest and XGBoost work the best and
-provide a reliable prediction.
+### Conclusions:-
+
+  1. Random Forest and XGBoost have shown the best performance.
+
+  2. The customer's account balance has a huge influence on the campaign's
+  outcome. So we can address those customers having good account
+  balance .
+
+  3. The customer's age affects campaign outcome as well.
+
+  4. Number of contacts with the customer during the campaign is also
+  crucial.
+
+  5. Outcome of previous marketing campaign also plays an important role.
+  So we can focus on previous customers more in order to increase
+  success of the campaign.
