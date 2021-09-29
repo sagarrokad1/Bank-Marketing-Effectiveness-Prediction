@@ -30,11 +30,11 @@ observe following things:-
   
 ### Models Implementation:-
   1. **Logistic Regression**
-  2. Logistic Regression(under sampling)
-  3. Random Forest(under sampling)
-  4. Random Forest(under sampling)
-  5. K-NN(over sampling)
-  6. XGBoost(over sampling)
+  2. **Logistic Regression(under sampling)**
+  3. **Random Forest(under sampling)**
+  4. **Random Forest(under sampling)**
+  5. **K-NN(over sampling)**
+  6. **XGBoost(over sampling)**
   
 ### Model Performance:
 
